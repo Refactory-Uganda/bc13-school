@@ -1,0 +1,35 @@
+src/
+  staff/ 
+    usecases/
+      registerStaf/
+      viewStaf/
+      viewStafDetails/
+      updateStaf/
+   
+  courses/
+    usecases/
+      registerCourse/
+      viewCourses/
+      viewCourseDetails/
+      updateCourse/
+
+  students/
+    usecases/
+      registerStudent/
+      viewStudents/
+      viewStudentDetails/
+      updateStudent/
+
+  departments/
+    usecases/
+      registerDepartment/
+      viewDepartments/
+      viewDepartmentDetails/
+      updateDepartment/
+
+  clubs/
+    usecases/
+      registerClub/
+      viewClubs/
+      viewClubDetails/
+      updateClub/
